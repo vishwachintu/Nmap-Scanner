@@ -1,8 +1,5 @@
 # Nmap-Scanner
 
-
- # Nmap-Scanner
-
 ## Introduction
 Welcome to Nmap-Scanner! This is a versatile tool designed to leverage the power of Nmap, the network scanning tool, in an easy-to-use Python package. Whether you're a cybersecurity professional, network administrator, or enthusiast, Nmap-Scanner provides a streamlined interface for conducting comprehensive network scans.
 
