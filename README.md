@@ -38,7 +38,7 @@ print(scan_results)
 For more advanced usage, refer to the documentation or examples provided in the repository.
 
 ## Documentation
-Detailed documentation, including usage examples and API references, can be found in the ([https://github.com/your-username/Nmap-Scanner](https://nmap.org/)).
+Detailed documentation, including usage examples and API references, can be found in the (https://nmap.org/).
 
 ## Contributing
 Contributions to Nmap-Scanner are welcome! Whether you want to report a bug, suggest a feature, or contribute code improvements, please feel free to submit a pull request or open an issue on the GitHub repository.
